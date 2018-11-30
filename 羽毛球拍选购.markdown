@@ -47,3 +47,5 @@
 > * 磅数 | 低 < 高  
 > * 弹性 | 大 > 小  （弹性大：击的球快、远）
 > * 力量 | 小 < 大
+
+![羽毛球选购](https://github.com/BoxunWang/Badminton/blob/master/image/%E7%BE%BD%E6%AF%9B%E7%90%83%E6%8B%8D%E9%80%89%E8%B4%AD.jpg)
